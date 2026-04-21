@@ -14,7 +14,7 @@ public class LoginTest {
         System.out.println("Starting UiPath bot execution...");
 
         // 🔥 FINAL COMMAND (shortcut trigger)
-        String command = "cmd /c start \"\" \"C:\\Users\\xtpl\\Desktop\\loginkptcl - UiPath.lnk\"";
+        String command = "cmd /c start \"\" \"C:\\Users\\xtpl\\Desktop\\loginkptcl2 - UiPath.lnk\"";
 
         int maxRetries = 3;
         int attempt = 0;
